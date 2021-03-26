@@ -1,0 +1,38 @@
+C:\Users\Home\AppData\Local\Temporary Projects\Kohonena\bin\Debug\Kohonena.exe
+C:\Users\Home\AppData\Local\Temporary Projects\Kohonena\bin\Debug\Kohonena.pdb
+C:\Users\Home\AppData\Local\Temporary Projects\Kohonena\obj\x86\Debug\Kohonena.Form1.resources
+C:\Users\Home\AppData\Local\Temporary Projects\Kohonena\obj\x86\Debug\Kohonena.Properties.Resources.resources
+C:\Users\Home\AppData\Local\Temporary Projects\Kohonena\obj\x86\Debug\Kohonena.csproj.GenerateResource.Cache
+C:\Users\Home\AppData\Local\Temporary Projects\Kohonena\obj\x86\Debug\Kohonena.exe
+C:\Users\Home\AppData\Local\Temporary Projects\Kohonena\obj\x86\Debug\Kohonena.pdb
+C:\Users\Home\AppData\Local\Temporary Projects\Kohonena\obj\x86\Debug\Kohonena.Node.resources
+C:\Users\Home\documents\visual studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.exe
+C:\Users\Home\documents\visual studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.pdb
+C:\Users\Home\documents\visual studio 2010\Projects\Kohonena\Kohonena\bin\Debug\Kohonena.exe
+C:\Users\Home\documents\visual studio 2010\Projects\Kohonena\Kohonena\bin\Debug\Kohonena.pdb
+C:\Users\Home\documents\visual studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.Form1.resources
+C:\Users\Home\documents\visual studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.Properties.Resources.resources
+C:\Users\Home\documents\visual studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.Node.resources
+C:\Users\Home\documents\visual studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.csproj.GenerateResource.Cache
+C:\Users\Home\documents\visual studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.Pobeditel.resources
+C:\Users\Home\documents\visual studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.Krasivosti.ConsForHack.resources
+C:\Users\Home\documents\visual studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.Krasivosti.ConsForHack2.resources
+C:\Users\Home\documents\visual studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.Krasivosti.ConsForHack3.resources
+C:\Users\Home\documents\visual studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.Dobavlenie.resources
+C:\Users\Home\documents\visual studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.csprojResolveAssemblyReference.cache
+C:\Users\Home\documents\visual studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.Iteracii.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Kohonena\Kohonena\bin\Debug\Kohonena.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Kohonena\Kohonena\bin\Debug\Kohonena.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.Dobavlenie.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.Iteracii.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.Krasivosti.ConsForHack.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.Krasivosti.ConsForHack2.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.Krasivosti.ConsForHack3.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.Pobeditel.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.Node.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Kohonena\Kohonena\obj\x86\Debug\Kohonena.csproj.GenerateResource.Cache
